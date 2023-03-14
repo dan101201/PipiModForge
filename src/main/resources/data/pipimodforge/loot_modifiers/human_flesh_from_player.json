@@ -1,0 +1,11 @@
+
+{
+    "type": "pipimodforge:add_item",
+    "conditions": [
+      {
+        "condition": "forge:loot_table_id",
+        "loot_table_id": "minecraft:entities/player"
+      }
+    ],
+  "item": "pipimodforge:human_flesh"
+}
